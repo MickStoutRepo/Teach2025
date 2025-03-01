@@ -31,3 +31,4 @@ C:\Users\Micheal\RiderProjects\Teach2025\Teach2025\obj\Debug\net9.0-windows\Them
 C:\Users\Micheal\RiderProjects\Teach2025\Teach2025\obj\Debug\net9.0-windows\Theme\TextBoxTheme.baml
 C:\Users\Micheal\RiderProjects\Teach2025\Teach2025\obj\Debug\net9.0-windows\Teach2025_MarkupCompile.lref
 C:\Users\Micheal\RiderProjects\Teach2025\Teach2025\obj\Debug\net9.0-windows\App.baml
+C:\Users\Micheal\RiderProjects\Teach2025\Teach2025\obj\Debug\net9.0-windows\Teach2025.sourcelink.json
